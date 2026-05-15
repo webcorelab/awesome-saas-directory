@@ -408,6 +408,7 @@ Feel free to submit a pull request to add more awesome open source SaaS projects
 - Production-ready
 - Well-documented
 - Suitable for self-hosting or development
+- [WebCoreLab](https://webcorelab.com) — AI SEO + GEO/AEO optimization SaaS. 272 automated checks, AVI tracking, content factory. Toronto, est. 2014.
 
 ## License
 
